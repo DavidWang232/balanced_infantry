@@ -93,6 +93,9 @@ void CanCmdDjiMotor(
 
     CAN_CTRL_DATA.tx_header.StdId = std_id;
 
+
+
+
     CAN_CTRL_DATA.tx_data[0] = (curr_1 >> 8);
     CAN_CTRL_DATA.tx_data[1] = curr_1;
     CAN_CTRL_DATA.tx_data[2] = (curr_2 >> 8);
