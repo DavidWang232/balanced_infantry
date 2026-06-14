@@ -192,6 +192,7 @@ void CalcPhi1AndPhi4(float phi0, float l0, float phi1_phi4[2])
     float C1 = LEG_L2 * LEG_L2 - yc * yc;
     float D1 = LEG_L2 * LEG_L2 + yc * yc;
 
+    float a;
     float sqrt_term1 = 2.0f * LEG_L1 * LEG_L1 * D1 + 2.0f * xc * xc * C1 - B1 * B1 - C1 * C1;
     if (sqrt_term1 < 0.0f) sqrt_term1 = 0.0f;
 
