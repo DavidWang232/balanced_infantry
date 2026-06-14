@@ -1,0 +1,37 @@
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Core/Src/stm32g4xx_hal_msp.c
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Core/Inc/main.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Core/Inc/stm32g4xx_hal_conf.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_def.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g4xx.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/stm32g474xx.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/CMSIS/Include/core_cm4.h
+loopctrldemo2\stm32g4xx_hal_msp.o: D:\Embedded_Tools\Keil5 V537\core\ARM\ARMCC\Bin\..\include\stdint.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/CMSIS/Include/cmsis_version.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/CMSIS/Device/ST/STM32G4xx/Include/system_stm32g4xx.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+loopctrldemo2\stm32g4xx_hal_msp.o: D:\Embedded_Tools\Keil5 V537\core\ARM\ARMCC\Bin\..\include\stddef.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_rcc_ex.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_gpio_ex.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dma.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_dma_ex.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_cortex.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_adc.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_ll_adc.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_adc_ex.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_exti.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_fdcan.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash_ex.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_flash_ramfunc.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_hrtim.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_pwr_ex.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_tim.h
+loopctrldemo2\stm32g4xx_hal_msp.o: ../Drivers/STM32G4xx_HAL_Driver/Inc/stm32g4xx_hal_tim_ex.h

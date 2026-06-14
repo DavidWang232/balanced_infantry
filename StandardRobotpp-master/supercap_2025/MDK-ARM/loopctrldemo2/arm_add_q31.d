@@ -1,0 +1,4 @@
+loopctrldemo2/arm_add_q31.o: ..\Middlewares\ST\ARM\DSP\Lib\arm_add_q31.c \
+  ..\Middlewares\ST\ARM\DSP\Inc\arm_math.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\string.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\math.h
