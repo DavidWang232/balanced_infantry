@@ -838,6 +838,7 @@ void ChassisReference(void)
             //angle = M_PI_2 + rc_angle * RC_TO_ONE * 0.9f;
             angle = 0+ rc_angle * RC_TO_ONE * 0.9f;
             //length = 0.29f + rc_length * RC_TO_ONE*3;
+            //length = 0.29f + rc_length * RC_TO_ONE*3;
             length = 0.25f + rc_length * RC_TO_ONE * 3;
             if (CHASSIS.step == JUMP_STEP_SQUST) {
                 length = MIN_LEG_LENGTH;
